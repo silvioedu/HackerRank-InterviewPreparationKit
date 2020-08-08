@@ -4,6 +4,7 @@
 
 - [Warm-up Challenges](./warmup)
 - [Arrays](./arrays)
+- [Dictionaries and Hashmaps](./dictionariesAndHashmaps)
 
 
 ## Reference 
