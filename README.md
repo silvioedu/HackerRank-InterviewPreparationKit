@@ -5,6 +5,9 @@
 - [Warm-up Challenges](./warmup)
 - [Arrays](./arrays)
 - [Dictionaries and Hashmaps](./dictionariesAndHashmaps)
+- [Sorting](./sorting)
+- [String manipulation](./stringManipulation)
+- [Greedy Algorithms](./greedyAlgorithms)
 
 
 ## Reference 
